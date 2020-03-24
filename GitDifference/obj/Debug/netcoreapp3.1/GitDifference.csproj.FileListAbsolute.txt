@@ -1,0 +1,11 @@
+C:\Users\callu\source\repos\GitDifference\GitDifference\bin\Debug\netcoreapp3.1\GitDifference.exe
+C:\Users\callu\source\repos\GitDifference\GitDifference\bin\Debug\netcoreapp3.1\GitDifference.deps.json
+C:\Users\callu\source\repos\GitDifference\GitDifference\bin\Debug\netcoreapp3.1\GitDifference.runtimeconfig.json
+C:\Users\callu\source\repos\GitDifference\GitDifference\bin\Debug\netcoreapp3.1\GitDifference.runtimeconfig.dev.json
+C:\Users\callu\source\repos\GitDifference\GitDifference\bin\Debug\netcoreapp3.1\GitDifference.dll
+C:\Users\callu\source\repos\GitDifference\GitDifference\bin\Debug\netcoreapp3.1\GitDifference.pdb
+C:\Users\callu\source\repos\GitDifference\GitDifference\obj\Debug\netcoreapp3.1\GitDifference.csprojAssemblyReference.cache
+C:\Users\callu\source\repos\GitDifference\GitDifference\obj\Debug\netcoreapp3.1\GitDifference.AssemblyInfoInputs.cache
+C:\Users\callu\source\repos\GitDifference\GitDifference\obj\Debug\netcoreapp3.1\GitDifference.AssemblyInfo.cs
+C:\Users\callu\source\repos\GitDifference\GitDifference\obj\Debug\netcoreapp3.1\GitDifference.dll
+C:\Users\callu\source\repos\GitDifference\GitDifference\obj\Debug\netcoreapp3.1\GitDifference.pdb
