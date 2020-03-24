@@ -7,7 +7,7 @@ namespace GitDifference
 
         static string[] Getting_Files_Ask() // this method is called if the file names entered are not correct the first time the user is asked for them. - called from Getting_Files method
         {
-            Console.WriteLine("What are the two files you wish to check? Please be specific and name only, please enter caps when needed eg. GitRepositories_1a:");
+            Console.WriteLine("What are the two files you wish to check?- seperated by a space! Please be specific and name only, please enter caps when needed eg. 'GitRepositories_1a GitRepositories_1b':");
             string user_input = Console.ReadLine();
             string[] filenames = user_input.Split(" ");
             return filenames; 
